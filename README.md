@@ -1,3 +1,6 @@
+#Estrutura de Pasta em Ruby
+
+'''
 README
 Rakefile
 app/
@@ -11,6 +14,7 @@ script/
 test/
 tmp/
 vendor/
+'''
 
 
 README – arquivo com instruções de uso;
